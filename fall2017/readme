@@ -1,0 +1,2 @@
+Working on learning priors for inference. The slides show preliminary results suggesting that 
+iterative EM algorithm results in pretty good accuracy and the last slide motivates the neural implementation.  
